@@ -1,0 +1,75 @@
+{
+	"name":"2BHK",
+	"bedrooms":2,
+	"hall":1,
+	"kitchen":1,
+	"balcony":1,
+	"dry-balcony":1,
+	"bathrooms" : 2,
+	"heigth":10,
+	"doors": 6,
+	"unit": "feet",
+	"kitchen-size":[
+	{
+		"id":1,
+		"length": 8,
+		"width": 14,
+		"windows":[
+		{
+			"id":1,
+			"heigth": 4,
+			"width": 4
+		}
+		]
+	}],
+	"hall-size":[
+	{
+		"id":1,
+		"length": 17,
+		"width": 14,
+		"windows":[
+		{
+			"id":1,
+			"heigth": 5,
+			"width": 6
+		}
+		]
+	}],
+	"bedrooms-size":[
+	{
+		"id":1,
+		"length": 10,
+		"width": 12,
+		"windows":[
+		{
+			"id":1,
+			"heigth": 5,
+			"width": 6
+		},
+		{
+			"id":2,
+			"heigth": 5,
+			"width": 5
+		}
+		]
+	},
+	{
+		"id":2,
+		"length": 10,
+		"width": 10,
+		"windows":[
+		{
+			"id":1,
+			"heigth": 5,
+			"width": 7
+		},
+		{
+			"id":2,
+			"heigth": 5,
+			"width": 5
+		}
+		]
+	}
+	]
+	
+}
